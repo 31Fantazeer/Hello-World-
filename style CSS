@@ -1,0 +1,13 @@
+h1 {
+    text-align:center;
+}
+
+.pon {
+    text-align:center;
+}
+
+.pot {
+ display: inline-block;
+    text-align:center;
+    margin-left: 267px;
+}
